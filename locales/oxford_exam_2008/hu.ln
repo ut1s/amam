@@ -1,0 +1,39 @@
+{
+  "ln": "hu",
+  "questionnaire-oxford_exam_2008" : "All Souls College felvételi vizsgakérdések (2008 előtt)",
+  "translations": {
+    "questionnaire-description"   : "Az All Souls College felvételi vizsgakérdései az Oxfordi Egyetemről. Ezek a kérdések a 2008 előtti vizsgákból származnak.", 
+
+    "pad.question-0": "Erkölcstelen dolog-e egy 10.000 fontos táskát vásárolni?",
+    "pad.question-1": "'Nem érdekel, hogy bárki olvassa-e a könyveimet; magamnak írok' - mondta a féltucatnyi megjelent regény szerzője. Van valami baj ezzel a kijelentéssel mint művészetelmélettel?",
+    "pad.question-2": "'Minden cselekedet, amit születésed napja óta végrehajtottál, azért történt, mert akartál valamit' [Andrew Carnegie]. Egyetértesz ezzel?",
+    "pad.question-3": "A politikusokkal szembeni ellenszenv ésszerű alapállás?",
+    "pad.question-4": "Miért elfogadhatóbb a bőrdzseki, mint a bunda?",
+    "pad.question-5": "Bízhatunk-e abban, hogy bármelyik állami és politikai intézmény megreformálja önmagát?",
+    "pad.question-6": "Rendkívül természetellenes állapot-e, ha egy férfi és egy nő folyamatosan együtt él?",
+    "pad.question-7": "A diákmobilitás Európában csupán egyfajta támogatott turizmus?",
+    "pad.question-8": "A bekötött szemmel játszott gyermekjátékok az emberi természet alapvető kegyetlenségéről árulkodnak?",
+    "pad.question-9": "Miért tűr meg az ENSZ annyi rossz rezsimet?",
+
+    "pad.question-10": "Van-e a családi értékek összeomlása nyugaton, és ha igen, akkor az államnak meg kellene-e próbálnia ezt orvosolni?",
+    "pad.question-11": "Kell-e a kormányoknak támogatniuk a tudományos kutatást, ha annak nem biztos, hogy van technológiai haszna?",
+    "pad.question-12": "Változik-e egy orgia erkölcsi jellege, ha a résztvevők náci egyenruhát viselnek?",
+    "pad.question-13": "Mit kellene tanulnia a nyugatnak Kínától?",
+    "pad.question-14": "A celebség a méltóság elvesztésével jár-e?",
+    "pad.question-15": "Irracionális-e a posztumusz hírnév utáni vágy?",
+    "pad.question-16": "Miért áll olyan rosszul Afrika gazdaságilag?",
+    "pad.question-17": "Megengedheti-e magának a világ, hogy ne termesszen génmódosított növényeket?",
+    "pad.question-18": "Ki tudják-e tervezni az építészek és várostervezők a bűnözést és a társadalmi összeomlást?",
+    "pad.question-19": "Megváltoztatják-e a sportolók nagyon magas fizetései a játszott játékok jellegét?",
+
+    "pad.question-20": "Azt mondják, hogy az építészet "fagyott zene". Van ennek valami értelme?",
+    "pad.question-21": "A húrelmélet tudomány?",
+    "pad.question-22": "Megváltoztathatja-e egy festmény a világot?",
+    "pad.question-23": "Meg tudja-e (és meg kell-e) tartani Európa a feltörekvő gazdaságokhoz képest viszonylag magas életszínvonalát?",
+    "pad.question-24": "Szerethetsz-e valakit, ha nem tiszteled?",
+    "pad.question-25": "Kell-e különbséget tennünk személyek, emberi lények és testük között?",
+    "pad.question-26": "Tudnak-e a számítógépek gondolkodni?",
+    "pad.question-27": "Van-e valami tanítani valója valamelyik ókori filozófusnak a mai erkölcsfilozófusoknak?",
+    "pad.question-28": "A szépség a szemlélő szemében rejlik?"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "languages": [
-    "en", "de", "nl"
+    "en", "de", "nl", "hu"
   ],
   "numberofquestions": 2,
   "defaulttitle": "Computer Science",

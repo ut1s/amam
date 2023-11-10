@@ -1,0 +1,29 @@
+{
+  "ln": "hu",
+  "questionnaire-for_kids": "Kérdések 7 és 14 év közötti gyermekek számára",
+  "translations": {
+    "questionnaire-description": "Ez a kérdőív segít beszélgetést kezdeményezni a 7 és 14 év közötti gyerekekkel.",
+
+    "pad.question-0": "Hol érzed magadat otthon?",
+    "pad.question-1": "Milyen filmet nézel, ha rossz kedved van?",
+    "pad.question-2": "Álmodsz arról, hogy egyszer híres leszel?",
+    "pad.question-3": "Ki szeretnél lenni egy nap?",
+    "pad.question-4": "Mi volt a legjobb játék, amit valaha játszottál?",
+    "pad.question-5": "Van kedvenc dalod?",
+    "pad.question-6": "Mi történt az utolsó álmodban, amire emlékszel?",
+    "pad.question-7": "Van kedvenc hősöd vagy kedvenc hősnőd?",
+    "pad.question-8": "Mi a legfontosabb számodra egy barátságban?",
+    "pad.question-9": "Miben vagy jó?",
+
+    "pad.question-10": "Mit szeretnél feltalálni?",
+    "pad.question-11": "Mitől félsz?",
+    "pad.question-12": "Mikor hallgatsz zenét?",
+    "pad.question-13": "Ha megváltoztathatnád a neveltetésedet: Mi lenne az?",
+    "pad.question-14": "Mi volt a leghosszabb könyv, amit olvastál? Jó volt?",
+    "pad.question-15": "Láttál már többször filmet, és ha igen, melyiket?",
+    "pad.question-16": "Szereted a sportot? Szeretsz sportolni?",
+    "pad.question-17": "Hogyan látod a jövődet?",
+    "pad.question-18": "Szeretnéd megváltoztatni a nevedet?",
+    "pad.question-19": "Mit szégyelltél valaha nagyon?"
+  }
+}

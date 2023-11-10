@@ -1,0 +1,51 @@
+{
+  "ln"                            : "hu",
+  "questionnaire-private"         : "Beszélgetésindítók (személyes kérdések)",
+  "translations": {
+    "questionnaire-description"   : "Ezeknek a kérdéseknek lehetővé kell tenniük a személyes témákról való beszélgetés megkezdését.",
+
+    "pad.question-0": "Mi az életed mottója?",
+    "pad.question-1": "Hol szeretnél élni?",
+    "pad.question-2": "Mi jelenti számodra a tökéletes földi boldogságot?",
+    "pad.question-3": "Milyen hibákat mentegetsz leginkább?",
+    "pad.question-4": "Mi a legnagyobb szerencsétlenséged?",
+    "pad.question-5": "Ha választhatnál, inkább egy fitt testet vagy egy egészséges elmét szeretnél öregkorodra?",
+    "pad.question-6": "Van-e titkos előérzeted arról, hogy valószínűleg meg fogsz halni?",
+    "pad.question-7": "Mi a legfontosabb számodra egy barátságban?",
+    "pad.question-8": "Mi a legszebb emléked?",
+    "pad.question-9": "Miért vagy hálás?",
+
+    "pad.question-10": "Miben vagy jó?",
+    "pad.question-11": "Mitől félsz?",
+    "pad.question-12": "Mit teszel, amikor valami jót akarsz tenni magadért?",
+    "pad.question-13": "Mi a kedvenc erényed?",
+    "pad.question-14": "Mi a kedvenc dolgod?",
+    "pad.question-15": "Ki vagy mi szeretnél lenni?",
+    "pad.question-16": "Mi a fő jellemvonásod?",
+    "pad.question-17": "Mit értékelsz leginkább a barátaidban?",
+    "pad.question-18": "Mi alegnagyobb hibád?",
+    "pad.question-19": "Van álmod a boldogságról?",
+
+    "pad.question-20": "Mi lenne a legnagyobb szerencsétlenséged?",
+    "pad.question-21": "Mi szeretnél lenni?",
+    "pad.question-22": "Melyik a kedvenc színed?",
+    "pad.question-23": "Melyik a kedvenc virágod?",
+    "pad.question-24": "Mi a kedvenc ételed és italod?",
+    "pad.question-25": "Melyik tárgy van nálad?",
+    "pad.question-26": "Milyen sportot űzöl? Melyik sportot szeretted volna mindig is kipróbálni?",
+    "pad.question-27": "Hogyan néz ki egy hangulatos este a barátaiddal?",
+    "pad.question-28": "Szeretsz vitatkozni, vagy inkább a harmóniára vágysz?",
+    "pad.question-29": "Melyek kedvenc neveid?",
+
+    "pad.question-30": "Mit utálsz a legjobban?",
+    "pad.question-31": "Tegyük fel, hogy hirtelen nyersz egymillió eurót a lottón. Mit kezdenél vele?",
+    "pad.question-32": "Adományozott már valaha pénzt, és ha igen, mire?",
+    "pad.question-33": "Milyen természeti adottsággal szeretnél rendelkezni?",
+    "pad.question-34": "Hogyan szeretnél meghalni?",
+    "pad.question-35": "Jelenlegi lelkiállapotod?",
+    "pad.question-36": "Milyen szokásoddal könnyíted meg az életed?",
+    "pad.question-37": "Voltál már büszke valamire, amit saját kezűleg alkottál?",
+    "pad.question-38": "Vannak háziállataid? Voltak valaha háziállataid? Szeretnél-e valaha újra háziállatot tartani?",
+    "pad.question-39": "Hová akartál mindig is elmenni nyaralni?"
+  }
+}

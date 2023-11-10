@@ -1,6 +1,6 @@
 {
   "languages": [
-    "de", "en", "fr", "nl"
+    "de", "en", "fr", "nl", "hu"
   ],
   "numberofquestions": 26,
   "defaulttitle": "Kultur Konversationsstarter",

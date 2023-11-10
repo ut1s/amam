@@ -1,0 +1,37 @@
+{
+  "ln": "hu",
+  "questionnaire-culture" : "Kulturális beszélgetésindítók",
+  "translations": {
+    "questionnaire-description": "Ez a kérdésgyűjtemény segíthet a kultúráról való beszélgetés elindításában.",
+
+    "pad.question-0": "Tegyük fel, hogy bárkit meghívhatsz magaddal vacsorázni: Ki lenne az?",
+    "pad.question-1": "Milyen filmet nézel, ha rossz kedved van?",
+    "pad.question-2": "Álmodozol arról, hogy híres leszel?",
+    "pad.question-3": "Melyik a kedvenc színdarabod?",
+    "pad.question-4": "Melyik a legintenzívebb játék, amit valaha játszottál?",
+    "pad.question-5": "Kik a kedvenc regényhőseid?",
+    "pad.question-6": "Ki a kedvenc karaktered a történelemben?",
+    "pad.question-7": "Kik a kedvenc hőseid a valóságban?",
+    "pad.question-8": "Ki a kedvenc festőd?",
+    "pad.question-9": "Kedvenc író?",
+
+    "pad.question-10": "Ki a kedvenc zeneszerződ?",
+    "pad.question-11": "Mikor hallgatsz zenét?",
+    "pad.question-12": "Melyik vallási épület nyűgözött le leginkább eddig?",
+    "pad.question-13": "Melyik a legátfogóbb könyv, amelyet valaha is olvastál? Jó volt?",
+    "pad.question-14": "Láttál-e már valaha egy filmet többször, és ha igen, melyiket?",
+    "pad.question-15": "Milyen zenét hallgatsz, ha szomorú vagy?",
+    "pad.question-16": "Láttál már olyan festményt, amely érzelmileg megérintett? Ha igen, melyik festmény volt az?",
+    "pad.question-17": "Melyek a jó filmek jellemzői?",
+    "pad.question-18": "Melyik a kedvenc operád, és miért?",
+    "pad.question-19": "Több pénzt kellene költenünk a múzeumokra?",
+
+    "pad.question-20": "Van-e még létjogosultsága a múzeumoknak az internet korában?",
+    "pad.question-21": "Van olyan művészeti műfaj vagy irányzat, amelyet nem értesz?",
+    "pad.question-22": "Mi a legnagyobb művészi tehetséged? Próbáltad már valaha is kiereszteni a gőzt ezen a területen?",
+    "pad.question-23": "Mit jelent számodra a művészet?",
+    "pad.question-24": "Mi az, ami számodra "szép" és mi az, amit "csúnyának" találsz?",
+    "pad.question-25": "Kell-e a művészetnek harmonikusnak lennie számodra?"
+
+  }
+}

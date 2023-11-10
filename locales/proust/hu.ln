@@ -1,0 +1,42 @@
+{
+  "ln"                        : "hu",
+  "questionnaire-proust"     : "Proust kérdések",
+  "translations": {
+    "questionnaire-description"  : "A 19. században az ilyen típusú kérdések megválaszolása egy kérdőív részeként népszerű volt, mint a művelt társadalom társadalmi játékai. Beszélgetésre kell ösztönözniük, segítenek megismerni a megkérdezettet, és hallani a jelleméről.",
+
+    "pad.question-0": "Mi a mottód?",
+    "pad.question-1": "Hol szeretnél élni?",
+    "pad.question-2": "Mi az elképzelésed a tökéletes boldogságról?",
+    "pad.question-3": "Mi a legnagyobb hibád?",
+    "pad.question-4": "Mi a legnagyobb szerencsétlenség számodra?",
+    "pad.question-5": "A kedvenc kitalált hősöd?",
+    "pad.question-6": "Kedvenc történelmi alakjod?",
+    "pad.question-7": "Kedvenc hősöd a valóságban?",
+    "pad.question-8": "Kedvenc festőd?",
+    "pad.question-9": "Kedvenc írója?",
+
+    "pad.question-10": "A kedvenc zeneszerződ?",
+    "pad.question-11": "Milyen tulajdonságokat értékelsz egy nőben a legjobban?",
+    "pad.question-12": "Milyen tulajdonságokat értékelsz egy férfiban a legjobban?",
+    "pad.question-13": "Melyik a kedvenc erényed?",
+    "pad.question-14": "Melyik a kedvenc tevékenységed?",
+    "pad.question-15": "Ki vagy mi szeretnél lenni?",
+    "pad.question-16": "A fő jellemvonásod?",
+    "pad.question-17": "Mit értékelsz leginkább a barátaidban?",
+    "pad.question-18": "A legnagyobb hibád?",
+    "pad.question-19": "A kedvenc színed?",
+
+    "pad.question-20": "A kedvenc virágod?",
+    "pad.question-21": "A kedvenc madarad?",
+    "pad.question-22": "Kedvenc költőd?",
+    "pad.question-23": "Kik a kedvenc történelmi hősnőid?",
+    "pad.question-24": "A kedvenc neved?",
+    "pad.question-25": "Mit utálsz a legjobban?",
+    "pad.question-26": "Mely történelmi személyiségeket veted meg a legjobban?",
+    "pad.question-27": "Melyik reformot csodálod a legjobban?",
+    "pad.question-28": "Milyen természeti adottságot szeretnél magadnak?",
+    "pad.question-29": "Hogyan szeretnél meghalni?",
+    
+    "pad.question-30": "Jelenlegi lelkiállapotod?"
+  }
+}

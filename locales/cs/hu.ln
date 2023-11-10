@@ -1,0 +1,11 @@
+{
+  "ln": "hu",
+  "questionnaire-cs" : "Informatika",
+  "translations": {
+    "pad.question-0": "Mi a kedvenc programozási nyelved?",
+    "pad.question-1": "Írd le magad matematikai definícióként.",
+    "pad.question-2": "Mi a legfontosabb téma az informatikában számodra?",
+    "pad.question-3": "Mely kutatási eredmények voltak rád a legnagyobb hatással?",
+    "pad.question-4": "Melyik kutatás volt rád a legnagyobb hatással?"
+  }
+}

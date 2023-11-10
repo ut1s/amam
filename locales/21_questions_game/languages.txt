@@ -1,6 +1,6 @@
 {
   "languages": [
-    "en", "de", "fr", "nl"
+    "en", "de", "fr", "nl", "hu"
   ],
   "numberofquestions": 21,
   "defaulttitle": "21 questions game",

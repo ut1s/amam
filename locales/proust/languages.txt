@@ -1,6 +1,6 @@
 {
   "languages": [
-    "en", "de", "fr", "nl"
+    "en", "de", "fr", "nl", "hu"
   ],
   "numberofquestions": 31,
   "defaulttitle": "Proust questions",

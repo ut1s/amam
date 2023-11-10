@@ -1,0 +1,28 @@
+{
+  "ln": "hu",
+  "translations": {
+    "pad.question" : "Itt található az aktuálisan kiválasztott kérdés",
+    "pad.random-question" : "Új kérdés lekérdezése",
+    "pad.back-to-menu" : "Vissza a menübe",
+    "menu.title" : "Kérdezz bármi értelmeset",
+    "menu.description" : "Azt hiszed, ismered a barátaidat? Tedd fel nekik az alábbi nem triviális kérdések egyikét, és tudj meg valamit a jellemükről.",
+    "menu.startbutton.random" : "Véletlen kiválasztása",
+    "menu.startbutton.list" : "Lista indítása",
+    "menu.description.label" : "Magyarázat",
+    "menu.option.label" : "Opciók",
+    "menu.descriptionbutton" : "Kérdőívek és lehetőségek",
+    "menu.options.newcolor" : "Get new background color",
+    "menu.options.savecolor" : "Utoljára használt háttérszín betöltése indításkor",
+    "menu.lnselectionlabel" : "Jelenleg kiválasztott nyelv",
+    "menu.questionnaires" : "Kérdőívek",
+    "menu.questionnaireslectionlabel" : "Jelenleg kiválasztott kérdőív",
+    "menu.label.color" : "Háttérszín",
+    "menu.authorship.intro" : "A kérdéseket neki köszönhetjük: ",
+
+    "language.de"           : "German",
+    "language.en"           : "English",
+    "language.fr"           : "French",
+    "language.nl"           : "Dutch",
+    "language.hu"           : "Hungarian"
+  }
+}

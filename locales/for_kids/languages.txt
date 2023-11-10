@@ -3,7 +3,8 @@
     "de",
     "en",
     "fr",
-    "nl"
+    "nl",
+    "hu"
   ],
   "numberofquestions": 20,
   "defaulttitle": "Fragen für Kinder im Alter zwischen 7 und 14",

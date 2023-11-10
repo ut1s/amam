@@ -1,0 +1,47 @@
+{
+  "ln": "hu",
+  "questionnaire-smalltalk_condition": "Kérdések a small-talk állapothoz",
+  "translations": {
+    "questionnaire-description": "Ezeket a kérdéseket a "The Experimental Generation of Interpersonal Closeness: A Procedure and Some Preliminary Findings" című, 1997-ben Arthur Aron, Edward Melinat, Elaine N. Aron, Robert Darrin Vallone és Renee J. Bator által készített tanulmány. A szerzők azt javasolják, hogy minden résztvevő válaszoljon a kérdésekre, és ossza meg a többiekkel.",
+
+    "pad.question-0": "Mikor sétáltál utoljára egy óránál többet? Meséld le, hová ment és mit látott.",
+    "pad.question-1": "Mi volt a legjobb ajándék, amit valaha kaptál, és miért?",
+    "pad.question-2": "Ha el kellene költöznöd a jelenlegi városodból, hova mennél, és mi hiányozna a legjobban belőle?",
+    "pad.question-3": "Hogyan ünnepelted a legutóbbi Halloweent?",
+    "pad.question-4": "Olvasol-e gyakran újságot, és melyiket részesíted előnyben? Miért?",
+    "pad.question-5": "Mi a megfelelő létszám egy diákháztartásban és miért?",
+    "pad.question-6": "Ha feltalálhatnál egy új fagylaltízt, mi lenne az?",
+    "pad.question-7": "Melyik a legjobb étterem, ahol az elmúlt hónapban jártál, és ahol a párod még nem volt? Mesélj róla a partnerednek.",
+    "pad.question-8": "A legutóbbi háziállatod.",
+    "pad.question-9": "Melyik volt a kedvenc nyaralásod? Miért?",
+
+    "pad.question-10": "Mondd el a partnerednek a legviccesebb dolgot, ami valaha is történt veled, amikor kisgyerek voltál.",
+    "pad.question-11": "Milyen ajándékokat kapott a legutóbbi születésnapján?",
+    "pad.question-12": "Meséld, mikor voltál utoljára állatkertben.",
+    "pad.question-13": "Mondd el családtagjaid nevét és életkorát, beleértve a nagyszülőket, nagynéniket és nagybácsikat, valamint azt, hogy hol születtek (amennyiben tudod).",
+    "pad.question-14": "Egyikőtök mond egy szót, a következő mond egy olyan szót, amely az előbb mondott szó utolsó betűjével kezdődik. Ezt addig csináljátok, amíg 50 szót nem mondtatok. Bármilyen szó megteszi - nem mondatot alkottok most.",
+    "pad.question-15": "Szeretsz korán kelni vagy sokáig fennmaradni? Van valami vicces dolog, ami ebből adódott?",
+    "pad.question-16": "Honnan származol? Nevezd meg az összes helyet, ahol éltél.",
+    "pad.question-17": "Mi volt eddig a kedvenc órád bármelyik iskolában? Miért?",
+    "pad.question-18": "Mit csináltál a nyáron?",
+    "pad.question-19": "Milyen ajándékokat kaptál tavaly karácsonyra?",
+
+    "pad.question-20": "Ki a kedvenc színészed a saját nemedből? Írj le egy kedvenc jelenetet, amelyben ez a személy játszott.",
+    "pad.question-21": "Mi volt a benyomásod bármelyik iskolában, amikor először jártál ott?",
+    "pad.question-22": "Mi volt a legjobb tévéműsor, amit az elmúlt hónapban láttál, és amit a párod nem látott? Meséljen róla a partnerének.",
+    "pad.question-23": "Melyik volt a kedvenc nyaralásod? Miért?",
+    "pad.question-24": "Hol jártál középiskolába? Milyen volt a középiskolád?",
+    "pad.question-25": "Mi volt a legjobb könyv, amit az elmúlt három hónapban olvastál, és amit a párod nem olvasott? Mesélj róla a partnerednek.",
+    "pad.question-26": "Melyik külföldi országba látogatnál el legszívesebben? Mi vonz téged ide?",
+    "pad.question-27": "A digitális órákat vagy az analógokat kedveli? Miért?",
+    "pad.question-28": "Írd le édesanyjád legjobb barátját.",
+    "pad.question-29": "Milyen előnyei és hátrányai vannak a mesterséges karácsonyfáknak?",
+
+    "pad.question-30": "Milyen gyakran vágatja le a haját? Hová jársz? Volt már valaha igazán rossz fodrászélménye?",
+    "pad.question-31": "Volt osztályállatotok, amikor általános iskolába jártál? Emlékszel a háziállat nevére?",
+    "pad.question-32": "Ön szerint a balkezesek kreatívabbak, mint a jobbkezesek?",
+    "pad.question-33": "Milyen koncertet láttál utoljára? Hány albumod van annak a zenekarnak az albumai közül? Láttad már őket korábban? Hol?",
+    "pad.question-34": "Előfizetsz valamilyen magazinra? Melyekre? Melyekre fizetett elő korábban?",
+    "pad.question-35": "Játszottál valaha iskolai színdarabban? Mi volt a szereped? Mi volt a darab cselekménye? Történt valaha valami vicces dolog, amikor színpadon voltál?"
+  }
+}

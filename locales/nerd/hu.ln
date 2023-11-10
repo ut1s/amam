@@ -1,0 +1,27 @@
+{
+  "ln": "hu",
+  "questionnaire-nerd" : "Kockáknak",
+  "translations": {
+    "questionnaire-description"   : "Kocka kérdés gyűjtemény - kockáktól kockáknak.",
+
+    "pad.question-0": "Ki a legkedvesebb 'Star Trek' kapitányod és miért?",
+    "pad.question-1": "Melyik filmsorozatnak nem kellett volna folytatást kapnia?",
+    "pad.question-2": "Melyik a kedvenc grafikus regényed (beleértve a képregényeket és mangákat is)?",
+    "pad.question-3": "Ki nyerte a jelenlegi generációs konzolok háborúját?",
+    "pad.question-4": "Ki a kedvenc videojáték-karaktered?",
+    "pad.question-5": "Tegyük fel, hogy egy napra bármelyik filmszereplővel találkozhatsz. Ki lenne az?",
+    "pad.question-6": "Melyik a leglátogatottabb weboldalad, amelyet senki más nem ismer?",
+    "pad.question-7": "Melyik tévésorozat volt rád a legnagyobb hatással fiatalkorodban?",
+    "pad.question-8": "George Lucas megváltoztathatta-e vajon a 'Star Wars' filmek tartalmát a megjelenés után?",
+    "pad.question-9": "Marvel Comics vagy DC Comics?",
+    "pad.question-10": "Nevezz meg a mémet, amelyik a legjobban tetszett.",
+    "pad.question-11": "Nevezd meg a legkedveltebb videojáték-gyártó cégedet.",
+    "pad.question-12": "Büszke kocka vagy-e és kiállsz-e mellette?",
+    "pad.question-13": "Melyik tevékenységet vagy hobbit nem tudnád megszakítani hat hónapra?",
+    "pad.question-14": "Ki a legkedvesebb 'Sailor Moon' karaktered?",
+    "pad.question-15": "Melyik a legkiválóbb pen-and-paper rendszer?",
+    "pad.question-16": "Az elmúlt tíz év melyik videojátékának volt a legnagyobb hatása?",
+    "pad.question-17": "Tegyük fel, hogy a tiéd lenne Dr. Brown időgépe. Hová mennél?",
+    "pad.question-18": "A DragonBall univerzum melyik karaktere volt a legáldozatosabb?"
+  }
+}

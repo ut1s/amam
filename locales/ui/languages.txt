@@ -1,5 +1,5 @@
 {
   "languages": [
-    "en", "de", "fr", "nl"
+    "en", "de", "fr", "nl", "hu"
   ]
 }
