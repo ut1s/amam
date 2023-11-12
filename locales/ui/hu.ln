@@ -19,10 +19,10 @@
     "menu.label.color" : "Háttérszín",
     "menu.authorship.intro" : "A kérdéseket neki köszönhetjük: ",
 
-    "language.de"           : "German",
-    "language.en"           : "English",
-    "language.fr"           : "French",
-    "language.nl"           : "Dutch",
-    "language.hu"           : "Hungarian"
+    "language.de"           : "Német",
+    "language.en"           : "Angol",
+    "language.fr"           : "Francia",
+    "language.nl"           : "Holland",
+    "language.hu"           : "Magyar"
   }
 }
