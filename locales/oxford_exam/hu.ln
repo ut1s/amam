@@ -5,7 +5,7 @@
     "questionnaire-description"   : "Az All Souls College felvételi vizsgakérdései az Oxfordi Egyetemről. Ezek a kérdések a 2008 utáni tesztekből származnak.",
 
     "pad.question-0": "A huszadik századot a bal- vagy a jobboldal nyerte?",
-    "pad.question-1": ": "Az értelmiségieknek tweetelniük kellene?",
+    "pad.question-1": "Az értelmiségieknek tweetelniük kellene?",
     "pad.question-2": "Ellenőrizzék-e az államok a határokat?",
     "pad.question-3": "A vegetarianizmus a jövő?",
     "pad.question-4": "Minden állampolgár kapjon-e alapjövedelmet az államtól?",
@@ -54,7 +54,7 @@
     "pad.question-45": "Milyen körülmények között kell az embereket genetikai vizsgálatnak alávetni?",
 
     "pad.question-46": "Kell az általános iskoláknak nemzeti tanterv?",
-    "pad.question-47": "Javítsd fel bármelyik sportág szabályait."
+    "pad.question-47": "Javítsd fel bármelyik sportág szabályait.",
     "pad.question-48": "A vallásoknak teistának kell lenniük?",
     "pad.question-49": "Az emberi szépségnek egészségesnek kell lennie",
 
@@ -71,7 +71,7 @@
     "pad.question-60": "Miért nem kapnak egyenlő fizetést a nők és a férfiak?",
     "pad.question-61": "Lehetsz feminista és házasodhatsz fehér menyasszonyi ruhában?",
     "pad.question-62": "Itt az ideje, hogy az iskolák felváltsák az idegen nyelvek oktatását a számítógépes kódolási nyelvek oktatásával?",
-    "pad.question-63": "Tegyen határozott érvet a nyugalom megőrzése és a továbblépés ellen."
+    "pad.question-63": "Tegyen határozott érvet a nyugalom megőrzése és a továbblépés ellen.",
     "pad.question-64": "Az internet kihozza a legrosszabbat az emberekből?",
     "pad.question-65": "Mi a baj a kockázattal, ha van valami?",
     "pad.question-66": "Mi a legfontosabb természeti törvény?",
@@ -84,9 +84,9 @@
     "pad.question-73": "A választás szabadságát az szolgálja a legjobban, ha az embereket választásra kényszerítik?",
     "pad.question-74": "'A képzelet történetei általában felzaklatják azokat, akiknek nincs ilyen.' [Terry Pratchett]. Beszéljétek meg.",
     "pad.question-75": "Lehetséges lenne megfogalmazni a filisztinizmus fokozódásának törvényét: 'minél több pénzt vonnak be a művészetbe, annál jobban meghamisítják, és annál kevesebb valódi művészet keletkezik.' Beszéljék meg.",
-    "pad.question-76": "Tegyen ügyet a rajongói fikciókra."
-    "pad.question-77": "'A történelmet megfelelően tanulmányozzák annak érdekében, hogy visszaadják a múltnak azt a bizonytalanságot, amely a jövőre jellemző.' Beszéljétek meg."
-    "pad.question-78": "'Egy modern jogrendszerben nincs helye rituáléknak és szertartásoknak.' Beszéljétek meg."
+    "pad.question-76": "Tegyen ügyet a rajongói fikciókra.",
+    "pad.question-77": "'A történelmet megfelelően tanulmányozzák annak érdekében, hogy visszaadják a múltnak azt a bizonytalanságot, amely a jövőre jellemző.' Beszéljétek meg.",
+    "pad.question-78": "'Egy modern jogrendszerben nincs helye rituáléknak és szertartásoknak.' Beszéljétek meg.",
     "pad.question-79": "Miben más a kapcsolat közted és a tested között, mint a közted és az online avatarod között?",
 
     "pad.question-80": "Be tudod csapni magadat?",
@@ -152,10 +152,10 @@
     "pad.question-138": "Lehet valami szép, ha nem felel meg a célnak?",
     "pad.question-139": "A jazz Amerika klasszikus zenéje?",
 
-    "pad.question-140": "Vizsgálja meg a történelem és a gazdaság közötti intellektuális kapcsolatot, ha van ilyen."
+    "pad.question-140": "Vizsgálja meg a történelem és a gazdaság közötti intellektuális kapcsolatot, ha van ilyen.",
     "pad.question-141": "A jóvátétel a büntetés egyik formája?",
     "pad.question-142": "Racionális félni a saját halálától?",
-    "pad.question-143": "Értékelje fel a szótárak és enciklopédiák jelentőségét a történelem tanulmányozásában."
+    "pad.question-143": "Értékelje fel a szótárak és enciklopédiák jelentőségét a történelem tanulmányozásában.",
     "pad.question-144": "Mi az igazság értéke?",
     "pad.question-145": "Ha ez lenne az utolsó elérhető papír, mit írna rá?",
     "pad.question-146": "Legyen-e maximum és minimálbér?",
@@ -178,7 +178,7 @@
     "pad.question-163": "Van-e jogorvoslat azoknak a személyeknek, akik a kormányra választott politikai párt választási ígéreteinek feladása miatt veszteséget szenvednek?",
     "pad.question-164": "Honnan tudhatjuk, hogy működik-e a börtön?",
     "pad.question-165": "A szexuális bűnelkövetőknek egy életen át szerepelniük kell a szexuális bűnelkövetők nyilvántartásában?",
-    "pad.question-166": "Megbeszéljük, miből tanulhat a filozófia, és mi járulhat hozzá más tudományághoz."
+    "pad.question-166": "Megbeszéljük, miből tanulhat a filozófia, és mi járulhat hozzá más tudományághoz.",
     "pad.question-167": "A filozófusoknak arra kell törekedniük, hogy világképet adjanak?",
     "pad.question-168": "Az etika jobb emberekké tegyen minket?",
     "pad.question-169": "A történészeknek kell erkölcsi ítéletet hozniuk?",
