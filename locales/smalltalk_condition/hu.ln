@@ -2,7 +2,7 @@
   "ln": "hu",
   "questionnaire-smalltalk_condition": "Kérdések a small-talk állapothoz",
   "translations": {
-    "questionnaire-description": "Ezeket a kérdéseket a "The Experimental Generation of Interpersonal Closeness: A Procedure and Some Preliminary Findings" című, 1997-ben Arthur Aron, Edward Melinat, Elaine N. Aron, Robert Darrin Vallone és Renee J. Bator által készített tanulmány. A szerzők azt javasolják, hogy minden résztvevő válaszoljon a kérdésekre, és ossza meg a többiekkel.",
+    "questionnaire-description": "Ezeket a kérdéseket a 'The Experimental Generation of Interpersonal Closeness: A Procedure and Some Preliminary Findings' című, 1997-ben Arthur Aron, Edward Melinat, Elaine N. Aron, Robert Darrin Vallone és Renee J. Bator által készített tanulmány. A szerzők azt javasolják, hogy minden résztvevő válaszoljon a kérdésekre, és ossza meg a többiekkel.",
 
     "pad.question-0": "Mikor sétáltál utoljára egy óránál többet? Meséld le, hová ment és mit látott.",
     "pad.question-1": "Mi volt a legjobb ajándék, amit valaha kaptál, és miért?",
@@ -40,7 +40,7 @@
     "pad.question-30": "Milyen gyakran vágatja le a haját? Hová jársz? Volt már valaha igazán rossz fodrászélménye?",
     "pad.question-31": "Volt osztályállatotok, amikor általános iskolába jártál? Emlékszel a háziállat nevére?",
     "pad.question-32": "Ön szerint a balkezesek kreatívabbak, mint a jobbkezesek?",
-    "pad.question-33": "Milyen koncertet láttál utoljára? Hány albumod van annak a zenekarnak az albumai közül? Láttad már őket korábban? Hol?",
+    "pad.question-33": "Milyen koncerten voltál utoljára? Hány album van meg attól a zenekartól? Láttad már őket korábban? Hol?",
     "pad.question-34": "Előfizetsz valamilyen magazinra? Melyekre? Melyekre fizetett elő korábban?",
     "pad.question-35": "Játszottál valaha iskolai színdarabban? Mi volt a szereped? Mi volt a darab cselekménye? Történt valaha valami vicces dolog, amikor színpadon voltál?"
   }

@@ -18,7 +18,7 @@
     "pad.question-11": "Vajon a történelmi regényírók többet tettek-e a történészeknél a múlt életének és textúrájának visszaszerzéséért?",
     "pad.question-12": "Helyes-e, hogy az ENSZ a nyelvi sokszínűséget alapvető emberi jognak tekinti?",
     "pad.question-13": "A pénzügyi szektor nagyobb, mint amekkorának lennie kellene?",
-    "pad.question-14": ""Az emberi testtel kapcsolatos attitűdök változásai erősen eltúlzottak. Beszéljék meg.",
+    "pad.question-14": "'Az emberi testtel kapcsolatos attitűdök változásai erősen eltúlzottak'. Beszéljék meg.",
     "pad.question-15": "Lehet-e kényszeríteni minket arra, hogy szabadok legyünk?",
     "pad.question-16": "'Az emberi viselkedés változatlan marad, de a vétkek változnak'. Discuss.",
     "pad.question-17": "Az igazságszolgáltatásnak reprezentálnia kell-e azt a társadalmat, amelyet szolgál?",
@@ -50,7 +50,7 @@
     "pad.question-41": "Mit kell központilag és mit helyileg ellenőrizni egy demokráciában?",
     "pad.question-42": "Miért nem történt soha katonai puccs a kommunista Kínában?",
     "pad.question-43": "Hogyan magyarázhatjuk meg az Európán belüli euroszkepticizmus és az amerikai kontinensen az észak-déli integrációval kapcsolatos szkepticizmus közötti különbségeket?",
-    "pad.question-44": "Mennyire hasznos a "polgári szerepvállalás" fogalma a politikai elemzésben?",
+    "pad.question-44": "Mennyire hasznos a 'polgári szerepvállalás' fogalma a politikai elemzésben?",
     "pad.question-45": "Milyen körülmények között kell az embereket genetikai vizsgálatnak alávetni?",
 
     "pad.question-46": "Kell az általános iskoláknak nemzeti tanterv?",
@@ -63,7 +63,7 @@
     "pad.question-52": "Minden adósságot vissza kell fizetni?",
     "pad.question-53": "Legyen izgalmas a politika?",
     "pad.question-54": "Egyes sportok feltétlenül osztályspecifikusak?",
-    "pad.question-55": ""A munka a világ szinte minden nyomorúságának forrása". Tehát el kell törölnünk a munkát?",
+    "pad.question-55": "'A munka a világ szinte minden nyomorúságának forrása'. Tehát el kéne törölnünk a munkát?",
     "pad.question-56": "Miben lehet hasznos a zene a nyelvhez képest?",
     "pad.question-57": "Miért részesítenének előnyben egy eredeti festményt egy kiváló másolatnál?",
     "pad.question-58": "A 21. századi érzékenységgel képes valaki megérteni az elmúlt korok irodalmát?",
@@ -78,12 +78,12 @@
     "pad.question-67": "Túl sok adatunk van?",
     "pad.question-68": "Volt fogalmuk a régieknek a jogokról?",
     "pad.question-69": "Mennyire volt fontos a turizmus az ókori világban?",
-    "pad.question-70": "Mit tettek valaha értünk a rómaiak?" [Monty Python]. Beszéljétek meg.",
+    "pad.question-70": "'Mit tettek valaha értünk a rómaiak?' [Monty Python]. Beszéljétek meg.",
     "pad.question-71": "A kormányoknak váltságdíjat kell fizetniük a túszejtőknek?",
     "pad.question-72": "Ki mentse meg a tengeren rekedt menedékkérőket?",
     "pad.question-73": "A választás szabadságát az szolgálja a legjobban, ha az embereket választásra kényszerítik?",
     "pad.question-74": "'A képzelet történetei általában felzaklatják azokat, akiknek nincs ilyen.' [Terry Pratchett]. Beszéljétek meg.",
-    "pad.question-75": "Lehetséges lenne megfogalmazni a filisztinizmus fokozódásának törvényét: minél több pénzt vonnak be a művészetbe, annál jobban meghamisítják, és annál kevesebb valódi művészet keletkezik." megbeszélés",
+    "pad.question-75": "Lehetséges lenne megfogalmazni a filisztinizmus fokozódásának törvényét: 'minél több pénzt vonnak be a művészetbe, annál jobban meghamisítják, és annál kevesebb valódi művészet keletkezik.' Beszéljék meg.",
     "pad.question-76": "Tegyen ügyet a rajongói fikciókra."
     "pad.question-77": "'A történelmet megfelelően tanulmányozzák annak érdekében, hogy visszaadják a múltnak azt a bizonytalanságot, amely a jövőre jellemző.' Beszéljétek meg."
     "pad.question-78": "'Egy modern jogrendszerben nincs helye rituáléknak és szertartásoknak.' Beszéljétek meg."
@@ -108,7 +108,7 @@
     "pad.question-96": "A sting műveletek megvédhetők?",
     "pad.question-97": "Jó dolog a várható élettartam növekedése?",
     "pad.question-98": "Egyes nyelvek, például a francia és az olasz, nem tesznek egyértelmű különbséget a 'history' és a 'store' között. Figyelmeztetni kell minket?",
-    "pad.question-99": "Mi az, vagy mi legyen a "globális történelem"?",
+    "pad.question-99": "Mi az, vagy mi legyen a 'globális történelem'?",
 
     "pad.question-100": "Igényel-e radikális átalakítást a közgazdaságtan oktatása?",
     "pad.question-101": "Legyen joga egy ország leggazdagabb részének elszakadni?",

@@ -2,7 +2,7 @@
   "ln": "hu",
   "questionnaire-interpersonal_closeness" : "Kérdések közelkerüléshez",
   "translations": {
-    "questionnaire-description"   : "Ezeket a kérdéseket használják a közelség-generáló eljáráshoz a "The Experimental Generation of Interpersonal Closeness: A Procedure and Some Preliminary Findings" című, 1997-ben Arthur Aron, Edward Melinat, Elaine N. Aron, Robert Darrin Vallone és Renee J. Bator által készített tanulmányban. A szerzők azt javasolják, hogy minden résztvevő válaszoljon a kérdésekre, és ossza meg a többiekkel.",
+    "questionnaire-description"   : "Ezeket a kérdéseket használják a közelség-generáló eljáráshoz a 'The Experimental Generation of Interpersonal Closeness: A Procedure and Some Preliminary Findings' című, 1997-ben Arthur Aron, Edward Melinat, Elaine N. Aron, Robert Darrin Vallone és Renee J. Bator által készített tanulmányban. A szerzők azt javasolják, hogy minden résztvevő válaszoljon a kérdésekre, és ossza meg a többiekkel.",
 
     "pad.question-0": "Ha bárkit választhatnál a világon, kit szeretnél vacsoravendégnek?",
     "pad.question-1": "Szeretnél híres lenni? Milyen értelemben?",
